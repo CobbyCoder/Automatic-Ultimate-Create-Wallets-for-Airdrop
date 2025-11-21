@@ -19,26 +19,7 @@ nvm use 22.11.0
 npm install -g npm@10.9.0
 ```
 
-#### 📱 Termux (Android)
 
-
-
-
-</details>
-
----
-
-<details>
-<summary><b>1. Clone the Project from GitHub</b></summary>
-
-```bash
-git clone https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop.git
-cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
-```
-
-</details>
-
----
 
 <details>
 <summary><b>2. Install Dependencies and Modules</b></summary>
